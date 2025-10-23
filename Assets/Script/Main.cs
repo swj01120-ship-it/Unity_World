@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Script_A : MonoBehaviour
+public class Main : MonoBehaviour
 {
-    Vector3 myVector = Vector3.zero;
     // Start is called before the first frame update
     void Start()
     {
