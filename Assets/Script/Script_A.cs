@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Script_A : MonoBehaviour
 {
+    Vector3 myVector = Vector3.zero;
     // Start is called before the first frame update
     void Start()
     {
